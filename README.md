@@ -21,7 +21,7 @@ SpaceX lists Falcon 9 launches at approximately $62M, compared to competitors ch
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/huangfrederick/rocket_launch_sites.git
 cd your-repo-name
 ```
 
