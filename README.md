@@ -22,7 +22,7 @@ SpaceX lists Falcon 9 launches at approximately $74M, compared to competitors ch
 
 ```bash
 git clone https://github.com/huangfrederick/rocket_launch_sites.git
-cd your-repo-name
+cd rocket_launch_sites
 ```
 
 ### Install Dependencies
@@ -49,7 +49,7 @@ Launch Jupyter and open the notebooks in order:
 jupyter notebook
 ```
 
-Navigate to the `notebooks/` directory and run them sequentially (01 → 04).
+Navigate to the `notebooks/` directory and run them sequentially (collection, wrangling, visualization, classfication).
 
 ---
 
