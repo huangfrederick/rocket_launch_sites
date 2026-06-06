@@ -1,6 +1,6 @@
 # SpaceX Falcon 9 First Stage Landing Prediction
 
-Binary classification project predicting whether a Falcon 9 first stage booster will successfully land and be recovered for reuse. Booster recovery status directly determines launch cost — a recovered booster significantly reduces the cost of a subsequent launch, making this a meaningful prediction target beyond a classification exercise.
+Binary classification project predicting whether a Falcon 9 first stage booster will successfully land and be recovered for reuse. Booster recovery status directly determines launch cost, as a recovered booster significantly reduces the cost of a subsequent launch, making this a meaningful prediction target beyond a classification exercise.
 
 ---
 
