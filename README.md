@@ -6,7 +6,7 @@ Binary classification project predicting whether a Falcon 9 first stage booster 
 
 ## Project Overview
 
-SpaceX lists Falcon 9 launches at approximately $62M, compared to competitors charging upward of $165M for comparable payloads. A primary cost driver is first stage reusability. This project uses publicly available launch data to predict recovery success and explore which mission parameters are most predictive of that outcome.
+SpaceX lists Falcon 9 launches at approximately $74M, compared to competitors charging upward of $90M for comparable payloads. A primary cost driver is first stage reusability. This project uses publicly available launch data to predict recovery success and explore which mission parameters are most predictive of that outcome.
 
 **Data sources:**
 - SpaceX REST API — launch records, booster data, payload information
@@ -89,8 +89,8 @@ Four classifiers (logistic regression, SVMs, KNN, and Decision Tree) were traine
 
 ```
 ├── data/
-│   ├── spacex_launch_data.csv        # Cleaned and labeled launch records
-│   └── ...                           # Additional mined datasets
+│   ├── Falcon9_api_data.csv        # Cleaned and labeled launch records
+│   └── ...                           # Additional datasets
 ├── notebook pdfs/
 │   ├── Launch Data Collection.pdf    # API calls and Wikipedia scraping
 │   ├── Launch Data Wrangling.pdf     # Cleaning, labeling, feature engineering
